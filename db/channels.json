@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Star plus",
+    "price": 50,
+    "category_id": 1
+  },
+  {
+    "id": 2,
+    "name": "Zee cinema",
+    "price": 45,
+    "category_id": 1
+  },
+  {
+    "id": 3,
+    "name": "Ted-Ed",
+    "price": 30,
+    "category_id": 2
+  },
+  {
+    "id": 4,
+    "name": "Crash Course",
+    "price": 25,
+    "category_id": 2
+  },
+  {
+    "id": 5,
+    "name": "Khan Academy",
+    "price": 40,
+    "category_id": 2
+  },
+  {
+    "id": 6,
+    "name": "ABP gana",
+    "price": 45,
+    "category_id": 3
+  },
+  {
+    "id": 7,
+    "name": "News18",
+    "price": 50,
+    "category_id": 3
+  },
+  {
+    "id": 8,
+    "name": "Zee cinema",
+    "price": 45,
+    "category_id": 1
+  },
+  {
+    "id": 9,
+    "name": "Star sports",
+    "price": 45,
+    "category_id": 4
+  },
+  {
+    "id": 10,
+    "name": "ASPN",
+    "price": 35,
+    "category_id": 4
+  },
+  {
+    "id": 11,
+    "name": "Pogo",
+    "price": 25,
+    "category_id": 5
+  },
+  {
+    "id": 12,
+    "name": "Cartoon Network",
+    "price": 25,
+    "category_id": 5
+  }
+]

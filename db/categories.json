@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Entertainment"
+  },
+  {
+    "id": 2,
+    "name": "Educational"
+  },
+  {
+    "id": 3,
+    "name": "Regional"
+  },
+  {
+    "id": 4,
+    "name": "Sports"
+  },
+  {
+    "id": 5,
+    "name": "Kids"
+  }
+]
